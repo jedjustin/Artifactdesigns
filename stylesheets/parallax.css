@@ -1,0 +1,99 @@
+/*Content BG Parallax Layers*/
+
+.about-parallax{
+	background: url('../images/parallax/bg01.jpg') repeat-y center center;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+.services-parallax{
+	background: url('../images/parallax/bg01.jpg') repeat-y center center;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.features-parallax{
+	background: url('../images/parallax/bg03.jpg') repeat-y center center;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.portfolio-parallax{
+  background: url('../images/parallax/bg01.jpg') repeat-y center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.contact-parallax{
+  background: url('../images/parallax/bg04.jpg') repeat-y center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+/*Separator BG Parallax Layers*/
+
+.separator01-parallax{
+  background: url('../images/parallax/sep01.jpg') repeat-x center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  box-shadow:inset 0px 1px 12px #000000;
+  height: 300px !important;
+}
+
+
+.separator02-parallax{
+  background: url('../images/parallax/sep02.jpg') repeat-x center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  box-shadow:inset 0px 1px 12px #000000;
+}
+
+.separator03-parallax{
+  background: url('../images/parallax/sep03.jpg') repeat-x center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  box-shadow:inset 0px 1px 12px #000000;
+}
+
+.separator04-parallax{
+  background: url('../images/parallax/sep04.jpg') repeat-x center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  box-shadow:inset 0px 1px 12px #000000;
+}
+
